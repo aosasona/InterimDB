@@ -1,5 +1,5 @@
 # InterimDB
-InterimDB is a free locally-hosted database to allow developers easily build projects with storage capabilities.
+InterimDB is a free locally-hosted database with a syntax simialar to other popular ORMs like Mongoose to allow developers easily build projects with data storage capabilities.
 
 
 ## Installation
